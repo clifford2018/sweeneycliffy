@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Search</title>
-    <meta content="charset=utf-8" />
+    <title>Shakespear Search</title>
 </head>
 <body>
 	<?php
